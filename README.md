@@ -1,14 +1,14 @@
 # Hi 👋, I'm Marco Junior
 
-## A Full Stack developer with over 10 years experience. I'm from Brazil
+## A Full Stack developer with over 12 years experience. I'm from Brazil
 
 - 🔭 I’m currently working on a **Multinational**
 
-- 🌱 I’m currently learning **Kotlin JVM**
+- 🌱 I’m currently learning **Back-End**
 
-- 💬 Ask me about **Javascript** or **Mobile**
+- 💬 Ask me about **Front-End** or **Back-End**
 
-- 📫 How to reach me **marcoroberto48@gmail.com** or **[Linkedin](https://www.linkedin.com/in/marco-junior-1b15a5ab/)**
+- 📫 How to reach me **marcoroberto48@gmail.com** or **[Linkedin](https://www.linkedin.com/in/marcorcjunior/)**
 
 ---
 
